@@ -1,0 +1,32 @@
+D:\GIT2\ITP\admin Functions\bin\Debug\admin Functions.exe.config
+D:\GIT2\ITP\admin Functions\bin\Debug\admin Functions.exe
+D:\GIT2\ITP\admin Functions\bin\Debug\admin Functions.pdb
+D:\GIT2\ITP\admin Functions\bin\Debug\MetroFramework.Design.dll
+D:\GIT2\ITP\admin Functions\bin\Debug\MetroFramework.dll
+D:\GIT2\ITP\admin Functions\bin\Debug\MetroFramework.Fonts.dll
+D:\GIT2\ITP\admin Functions\bin\Debug\mysql.data.dll
+D:\GIT2\ITP\admin Functions\bin\Debug\PrinterUtility.dll
+D:\GIT2\ITP\admin Functions\bin\Debug\Zen.Barcode.Core.dll
+D:\GIT2\ITP\admin Functions\obj\Debug\admin Functions.csprojResolveAssemblyReference.cache
+D:\GIT2\ITP\admin Functions\obj\Debug\AttendanceRecorder.AttendenceRecorder.resources
+D:\GIT2\ITP\admin Functions\obj\Debug\AttendanceRecorder.billPrint.resources
+D:\GIT2\ITP\admin Functions\obj\Debug\AttendanceRecorder.ChangePassword.resources
+D:\GIT2\ITP\admin Functions\obj\Debug\AttendanceRecorder.ChatRoom.resources
+D:\GIT2\ITP\admin Functions\obj\Debug\AttendanceRecorder.EmployeeIDPrint.resources
+D:\GIT2\ITP\admin Functions\obj\Debug\AttendanceRecorder.EmployeeNotifications.resources
+D:\GIT2\ITP\admin Functions\obj\Debug\AttendanceRecorder.ManageDrinks.resources
+D:\GIT2\ITP\admin Functions\obj\Debug\AttendanceRecorder.ManageEmployeePositions.resources
+D:\GIT2\ITP\admin Functions\obj\Debug\AttendanceRecorder.EmployeeProfile.resources
+D:\GIT2\ITP\admin Functions\obj\Debug\AttendanceRecorder.Form1.resources
+D:\GIT2\ITP\admin Functions\obj\Debug\AttendanceRecorder.Login.resources
+D:\GIT2\ITP\admin Functions\obj\Debug\AttendanceRecorder.ManageRooms.resources
+D:\GIT2\ITP\admin Functions\obj\Debug\AttendanceRecorder.Properties.Resources.resources
+D:\GIT2\ITP\admin Functions\obj\Debug\AttendanceRecorder.ScanBarcode.resources
+D:\GIT2\ITP\admin Functions\obj\Debug\AttendanceRecorder.ScanBarcodeForAttendence.resources
+D:\GIT2\ITP\admin Functions\obj\Debug\AttendanceRecorder.SendMail.resources
+D:\GIT2\ITP\admin Functions\obj\Debug\AttendanceRecorder.splashScreen.resources
+D:\GIT2\ITP\admin Functions\obj\Debug\admin Functions.csproj.GenerateResource.Cache
+D:\GIT2\ITP\admin Functions\obj\Debug\RdlCompile.cache
+D:\GIT2\ITP\admin Functions\obj\Debug\RdlCompile.compiled
+D:\GIT2\ITP\admin Functions\obj\Debug\admin Functions.exe
+D:\GIT2\ITP\admin Functions\obj\Debug\admin Functions.pdb
